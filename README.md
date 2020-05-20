@@ -27,7 +27,7 @@
 ## :rocket: Mobile Technologies
 
 <h1 align="center">
-    <img alt="Currency Converter Image" src="https://github.com/eltonlazzarin/todo-list/blob/master/screenshots/todolist.gif" />
+    <img alt="Currency Converter Image" src="https://github.com/eltonlazzarin/todo-list/blob/master/screenshots/todolist.gif" hight="380" width="350" />
 </h1>
 
 This project was developed with the following technologies:
