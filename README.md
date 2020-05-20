@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/currency-converter/blob/master/screenshots/icons/coins.svg" height="150px" width="150px" /> 
+    <img alt="Logo Icon" src="https://github.com/eltonlazzarin/todo-list/blob/master/screenshots/icon/todolist.svg" height="150px" width="150px" /> 
     <br>
     ToDo List
 </h1>
