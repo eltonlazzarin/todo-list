@@ -16,7 +16,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/todo-list">
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/todo-lists">
+  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/todo-list">
 
 <p align="center">
   <a href="#rocket-mobile-technologies">Mobile Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
